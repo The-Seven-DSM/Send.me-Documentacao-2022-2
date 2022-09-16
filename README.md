@@ -6,7 +6,6 @@
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
     <a href="#backlog">Backlogs</a>  |
-
     <a href="#equipe">Equipe</a>
 </p>
 
