@@ -4,7 +4,8 @@
 <br id="topo">
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
-    <a href="#backlog">Backlogs</a>  |  
+    <a href="#backlog">Backlogs</a>  |
+
     <a href="#equipe">Equipe</a>
 </p>
 
@@ -29,7 +30,7 @@
 ## :dart: Backlogs
 
 <div align="center">
-![product backlog](imagem o backlog)
+![Backlog](https://user-images.githubusercontent.com/101061910/190673043-957fc61d-d471-457e-bcd3-8e4787d123b9.png)
 </div>
 
 → [Voltar ao topo](#topo)
