@@ -1,5 +1,6 @@
 <div align="center">
 ![banner] INSIRA BANNER
+
 </div>
 <br id="topo">
 <p align="center">
@@ -28,9 +29,9 @@
 | 04 | 27/11/2022 | Em Espera |  |
 
 ## :dart: Backlogs
-
+![Backlog](https://user-images.githubusercontent.com/101061910/190674578-5e05103e-5a60-496f-ad94-3c2a995d4a08.jpg)
 <div align="center">
-![Backlog](https://user-images.githubusercontent.com/101061910/190673043-957fc61d-d471-457e-bcd3-8e4787d123b9.png)
+
 </div>
 
 → [Voltar ao topo](#topo)
