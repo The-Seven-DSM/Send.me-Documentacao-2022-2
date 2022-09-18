@@ -1,4 +1,6 @@
-<p align="center"><h1>Sprint 1: 29/08/2022 à 18/09/2022</h1></p>
+<div align="center">
+    <h1>Sprint 1: 29/08/2022 à 18/09/2022</h1>
+</div>
 <br id="topo">
 <p align="center">
     <a href="#objetivo">Objetivo da Sprint</a>  |  
