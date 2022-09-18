@@ -1,46 +1,55 @@
 <div align="center">
-    <h1>Sprint 1: 29/08/2022 à 18/09/2022</h1>
+<h1>
+Send.Me
+</h1>
+2º DSM - 2022, FATEC Profº Jessen Vidal - SJC
 </div>
 <br id="topo">
 <p align="center">
-    <a href="#objetivo">Objetivo da Sprint</a>  |  
-    <a href="#entrega">Entregas</a>  |
-    <a href="#metrica">Métricas do Time</a>
+    <a href="#sobre">Sobre</a>  |  
+    <a href="#backlog">Backlogs</a>  |
+    <a href="#equipe">Equipe</a>
 </p>
 
-<span id="objetivo">
+<span id="sobre">
 
-## :dart: Objetivos da Sprint
+## :bookmark_tabs: Sobre o projeto
 A partir da apresentação do desafio enfrentado pela empresa parceira, a solução desenvolvida se configura em um sistema que lê o diário oficial do estado, separá as citações daqueles que forem associados da empresa e permitir que, após ter sido validado, seja enviado um e-mail para eles.
 
-<div align="center">
+→ [Voltar ao topo](#topo)
 
-![Backlog Sprint](https://user-images.githubusercontent.com/101061910/190931394-b119e60b-934d-4b08-8ec0-64239ba638f3.jpg)
+<span id="backlog">
+
+### 🏁 Entregas de Sprints
+
+| Sprint | Previsão | Status | tag |
+|:--:|:----------:|:------------:|:----------:|
+| 01 | 18/09/2022 | Em Progresso | [Tag NOME] |
+| 02 | 09/10/2022 | Em Espera |  |
+| 03 | 06/11/2022 | Em Espera |  |
+| 04 | 27/11/2022 | Em Espera |  |
+
+## :dart: Backlogs
+![Backlog](https://user-images.githubusercontent.com/101061910/190674578-5e05103e-5a60-496f-ad94-3c2a995d4a08.jpg)
+<div align="center">
 
 </div>
 
 → [Voltar ao topo](#topo)
 
-<span id="entrega">
+<span id="equipe">
 
-## :heavy_check_mark: Entregas
+## :busts_in_silhouette: Equipe
 
-</div>
+|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Product Owner | Pedro Antonio Rizzo Toledo           |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-antonio-rizzo-toledo-71b465232/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Pedro-Toledo)              |
+| Scrum Master  | Wallace Felipe De França Souza       |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wallacefelipe21/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/wallacefelipe21)              |
+|   Dev Team    | Lucas Vinicius da Silva Soares        |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasviniciussoares/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasVinicius32)          |
+|   Dev Team    | Valderi Douglas Camargo Queiros Ferreira |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valderidouglas/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ValderiDouglas)             |
+|   Dev Team    | Gabriel da Cunha de Macedo |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-da-cunha-de-macedo-199890250/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Tuuca)             |
+|   Dev Team    | Allan Victor Silva Campos |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valderidouglas/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AlnVic)             |
+|   Dev Team    | Victor dos Santos Salles |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valderidouglas/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/VictorSantos18)             |
+|   Dev Team    | Caio Vitor Dias |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valderidouglas/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/caiovitordias1)             |
 
-→ [Voltar ao topo](#topo)
-
-<span id="metrica">
-
-## :chart_with_upwards_trend: Métricas do time
-Para melhorar o aproveitamento da equipe e das habilidades individuais de cada integrante, separamos a equipe de desenvolivmento em duas frentes: Front-End e Back-end, onde para essa primeira sprint a equipe de front-end foi encarregada de criar os componentes e páginas que seriam utilizadas, já a equipe de back-end ficou responsável por criar o crawler(Programa de navegação na Web que cria uma base de dados) para os PDFs, o CRUD, o banco de dados e o envio dos email. Ao final da sprint as duas equipes se juntaram para a integração do sistema de forma que se tornasse funcional e atendesse aos requisitos solicitados pelo cliente.
-
-- Para acompanhar as atividades, foi criado e atualiazado pelo Scrum Mastes ao longo da sprint, um gráfico de burndown onde podemos visualizar de forma tangivel os esforços de tempo e a progressão ao longo dos dias da sprint, incluindo as atividades desenvolvidas e seus responsáveis.
-
-<br>
-<div align="center">
-            
-![burndown](https://user-images.githubusercontent.com/101061910/190930471-4b8b8c8a-bb27-4eaa-867a-b14f37a05276.jpg)
-
-</div>
-    
 → [Voltar ao topo](#topo)
