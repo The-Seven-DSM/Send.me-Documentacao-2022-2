@@ -12,7 +12,7 @@
 <span id="sobre">
 
 ## :bookmark_tabs: Sobre o projeto
-<h4>A partir da apresentação do desafio enfrentado pela empresa parceira, a solução desenvolvida se configura em um sistema de (alguma coisa), que consiste em um sistema que lê o diário oficial do estado e envia e-mails para aqueles que forem associados da empresa.</h4>
+A partir da apresentação do desafio enfrentado pela empresa parceira, a solução desenvolvida se configura em um sistema que lê o diário oficial do estado, separá as citações daqueles que forem associados da empresa e permitir que, após ter sido validado, seja enviado um e-mail para eles.
 
 → [Voltar ao topo](#topo)
 
