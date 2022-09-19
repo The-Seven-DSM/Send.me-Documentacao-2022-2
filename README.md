@@ -12,7 +12,7 @@
 <span id="objetivo">
 
 ## :dart: Objetivos da Sprint
-A partir da apresentação do desafio enfrentado pela empresa parceira, a solução desenvolvida se configura em um sistema que lê o diário oficial do estado, separá as citações daqueles que forem associados da empresa e permitir que, após ter sido validado, seja enviado um e-mail para eles.
+A partir da apresentação do desafio enfrentado pela empresa parceira, a solução desenvolvida se configura em um sistema que lê o diário oficial do estado, separa as citações daqueles que forem associados da empresa e permitir que, após ter sido validado, seja enviado um e-mail para eles.
 
 <div align="center">
 
