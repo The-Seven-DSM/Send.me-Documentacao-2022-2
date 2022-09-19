@@ -110,7 +110,7 @@ Finalizado!!!
 
 ## :clipboard: Testes do Sistema
 
-Como solicitado pelo cliente ao fim da sprint, testamos todas as interações possiveis através da página web e sua respostas, de forma que podemos ver a acertividade das funções implementadas 
+Como solicitado pelo cliente ao fim da sprint, testamos todas as interações possiveis através da página web e sua respostas, de forma que podemos ver a eficácia
 
 <div align="center">
     
