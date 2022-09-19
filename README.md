@@ -113,6 +113,7 @@ Finalizado!!!
 Como solicitado pelo cliente ao fim da sprint, testamos todas as interações possiveis através da página web e sua respostas, de forma que podemos ver a acertividade das funções implementadas 
 
 <div align="center">
+    
 | Nº | Descrição | Status |
 |:--:|:----------:|:----------------:|
 | 01 | Redirecionamento para a página de cadastro do associado | ✔️ | 
@@ -127,5 +128,6 @@ Como solicitado pelo cliente ao fim da sprint, testamos todas as interações po
 | 10 | Envio do email através od botão de envio de email   | ✔️ |
 | 11 | Voltar para a Home a partir da página de validação de email  | ✔️ |
 | 12 | Voltar para a Home a partir do botão Send.Me (Logo)  | ✔️ | 
+    
 </div>
 → [Voltar ao topo](#topo)
