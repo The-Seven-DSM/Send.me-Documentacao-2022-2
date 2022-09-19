@@ -133,6 +133,7 @@ Como solicitado pelo cliente ao fim da sprint, testamos todas as interações po
 | 09 | Edição de texto do email  | ✔️ |
 | 10 | Validar o email/edição atrevés do botão de validar  | ✔️ |
 | 11 | Envio do email através do botão de envio de email   | ✔️ |
+| 11 | Envio do email através do botão de envio de email caso seja um email validado  | ❌ |
 | 12 | Voltar para a Home a partir da página de validação de email  | ✔️ |
 | 13 | Voltar para a Home a partir do botão Send.Me (Logo)  | ✔️ | 
     
