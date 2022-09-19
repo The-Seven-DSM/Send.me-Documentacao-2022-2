@@ -81,6 +81,10 @@ OBS: O projeto deve rodar na seguinte ordem Bot -> BackEnd -> FrontEnd
 - Acesse a pasta Send.me-Bot-2022-2 
 ```bash
 #Rodando Bot
+
+# Já dentro do projeto, localize o arquivo Database.config.ts dentro da pasta config 
+# Na linha 3 altere o campo "root" e "admin" para suas credenciais do MySQL
+
 $ cd Send.me-Bot-2022-2
 $ pip install -r requirements.txt
 $ Python app.py}
