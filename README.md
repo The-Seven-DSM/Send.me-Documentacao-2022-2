@@ -1,13 +1,9 @@
-<div align="center">
-<h1>
-Send.Me
-</h1>
-2º DSM - 2022, FATEC Profº Jessen Vidal - SJC
-</div>
-<br id="topo">
+<h1 id="topo" align="center">:mag: Send.Me by :mag_right:</h1>
+
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
-    <a href="#backlog">Backlogs</a>  |
+    <a href="#backlog">Backlog</a>  |
+    <a href="#tecnologia">Tecnologia</a>  |
     <a href="#equipe">Equipe</a>
 </p>
 
@@ -22,17 +18,41 @@ A partir da apresentação do desafio enfrentado pela empresa parceira, a soluç
 
 ### 🏁 Entregas de Sprints
 
-| Sprint | Previsão | Status | tag |
+| Sprint | Previsão | Status | Relatório |
 |:--:|:----------:|:------------:|:----------:|
-| 01 | 18/09/2022 | Em Progresso | [Tag NOME] |
-| 02 | 09/10/2022 | Em Espera |  |
-| 03 | 06/11/2022 | Em Espera |  |
-| 04 | 27/11/2022 | Em Espera |  |
+| 01 | 18/09/2022 | ✔️ Concluídao | [ver relatório](https://github.com/The-Seven-DSM/Send.me-Documentacao-2022-2/tree/Send.me-Sprint-1) |
+| 02 | 09/10/2022 | 🚧 Em andamento | - |
+| 03 | 06/11/2022 | 🛑 Não iniciada | - |
+| 04 | 27/11/2022 | 🛑 Não iniciada | - |
 
 ## :dart: Backlogs
 ![Backlog](https://user-images.githubusercontent.com/101061910/190674578-5e05103e-5a60-496f-ad94-3c2a995d4a08.jpg)
 <div align="center">
 
+</div>
+
+→ [Voltar ao topo](#topo)
+
+<span id="tecnologia">
+
+## 🛠️ Tecnologia
+Todas as ferramentas, linguagens, bibliotecas e tecnologias utilizadas em todo o desenvolvimento do projeto:
+
+<div align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </div>
 
 → [Voltar ao topo](#topo)
@@ -48,8 +68,8 @@ A partir da apresentação do desafio enfrentado pela empresa parceira, a soluç
 |   Dev Team    | Lucas Vinicius da Silva Soares        |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasviniciussoares/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasVinicius32)          |
 |   Dev Team    | Valderi Douglas Camargo Queiros Ferreira |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valderidouglas/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ValderiDouglas)             |
 |   Dev Team    | Gabriel da Cunha de Macedo |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-da-cunha-de-macedo-199890250/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Tuuca)             |
-|   Dev Team    | Allan Victor Silva Campos |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valderidouglas/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AlnVic)             |
-|   Dev Team    | Victor dos Santos Salles |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valderidouglas/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/VictorSantos18)             |
-|   Dev Team    | Caio Vitor Dias |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valderidouglas/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/caiovitordias1)             |
+|   Dev Team    | Allan Victor Silva Campos |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AlnVic)             |
+|   Dev Team    | Victor dos Santos Salles | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/VictorSantos18)             |
+|   Dev Team    | Caio Vitor Dias |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/caiovitordias1)             |
 
 → [Voltar ao topo](#topo)
