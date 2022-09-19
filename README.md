@@ -131,4 +131,5 @@ Como solicitado pelo cliente ao fim da sprint, testamos todas as interações po
 | 12 | Voltar para a Home a partir do botão Send.Me (Logo)  | ✔️ | 
     
 </div>
+    
 → [Voltar ao topo](#topo)
