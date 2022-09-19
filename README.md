@@ -121,7 +121,7 @@ Como solicitado pelo cliente ao fim da sprint, testamos todas as interações po
 | 01 | Redirecionamento para a página de cadastro do associado | ✔️ | 
 | 02 | Preenchimento dos campos de cadastro de associado | ✔️ | 
 | 03 | Bloqueio do cadastro de associados caso um campo não esteja preenchido | ✔️ | 
-| 04 | Cadastro de associado a partir do formulário caso os campos estejam preenchidos através od botão de cadastro| ✔️ |
+| 04 | Cadastro de associado a partir do formulário caso os campos estejam preenchidos através do botão de cadastro| ✔️ |
 | 05 | Voltar para a Home a partir da página de cadastro de associados  | ✔️ | 
 | 06 | Visualização da tabela de associados presentes no PDF do dia | ✔️ | 
 | 07 | Envio de email validados através do botão de envio de email geral  | ✔️ |
