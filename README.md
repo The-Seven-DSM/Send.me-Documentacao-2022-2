@@ -18,6 +18,8 @@ A partir da apresentação do desafio enfrentado pela empresa parceira, a soluç
 
 ### 🏁 Entregas de Sprints
 
+Cada entrega será feita a partir da criação de uma **tag** em cada repositório (FrontEnd, BackEnd e Bot), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
+
 | Sprint | Previsão | Status | Relatório |
 |:--:|:----------:|:------------:|:----------:|
 | 01 | 18/09/2022 | ✔️ Concluídao | [ver relatório](https://github.com/The-Seven-DSM/Send.me-Documentacao-2022-2/tree/Send.me-Sprint-1) |
@@ -25,11 +27,33 @@ A partir da apresentação do desafio enfrentado pela empresa parceira, a soluç
 | 03 | 06/11/2022 | 🛑 Não iniciada | - |
 | 04 | 27/11/2022 | 🛑 Não iniciada | - |
 
-## :dart: Backlogs
-![Backlog](https://user-images.githubusercontent.com/101061910/190674578-5e05103e-5a60-496f-ad94-3c2a995d4a08.jpg)
+## :dart: Backlog
+
+
+
+
+<h2> Product Backlog </h2>
 <div align="center">
 
+![Product Backlog](https://user-images.githubusercontent.com/92696799/190937940-9dec191a-3198-4711-a33b-ab5b0baed5c0.png)
+<br>
 </div>
+
+<h2> Épicos </h2> 
+<div align="center">
+
+![Epicos](https://user-images.githubusercontent.com/92696799/190937935-8350e09c-cae2-43a5-8ae6-94e0b20caf65.png)
+<br>
+</div>
+<h2> User Stories </h2>
+<div align="center">
+
+![User Stories](https://user-images.githubusercontent.com/92696799/190937927-5ca06c83-b203-443e-8b22-a4d785d25818.png)
+<br>
+</div>
+
+
+
 
 → [Voltar ao topo](#topo)
 
