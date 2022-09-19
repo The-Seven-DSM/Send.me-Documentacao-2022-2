@@ -105,3 +105,27 @@ $ yarn start
 Finalizado!!!
 
 → [Voltar ao topo](#topo)
+
+<span id="testes">
+
+## :clipboard: Testes do Sistema
+
+Como solicitado pelo cliente ao fim da sprint, testamos todas as interações possiveis através da página web e sua respostas, de forma que podemos ver a acertividade das funções implementadas 
+
+<div align="center">
+| Nº | Descrição | Status |
+|:--:|:----------:|:----------------:|
+| 01 | Redirecionamento para a página de cadastro do associado | ✔️ | 
+| 02 | Preenchimento dos campos de cadastro de associado | ✔️ | 
+| 03 | Bloqueio do cadastro de associados caso um campo não esteja preenchido | ✔️ | 
+| 04 | Cadastro de associado a partir do formulário caso os campos estejam preenchidos através od botão de cadastro| ✔️ |
+| 05 | Voltar para a Home a partir da página de cadastro de associados  | ✔️ | 
+| 06 | Visualização da tabela de associados presentes no PDF do dia | ✔️ | 
+| 07 | Redirecionamento para a página de validação e edição de email | ✔️ |
+| 08 | Edição de texto do email  | ✔️ |
+| 09 | Validar o email/edição  atrevés do botão de validar  | ✔️ |
+| 10 | Envio do email através od botão de envio de email   | ✔️ |
+| 11 | Voltar para a Home a partir da página de validação de email  | ✔️ |
+| 12 | Voltar para a Home a partir do botão Send.Me (Logo)  | ✔️ | 
+</div>
+→ [Voltar ao topo](#topo)
