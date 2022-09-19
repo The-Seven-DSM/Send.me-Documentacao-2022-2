@@ -25,8 +25,6 @@ A partir da apresentação do desafio enfrentado pela empresa parceira, a soluç
 
 ## :heavy_check_mark: Entregas
 
-</div>
-
 → [Voltar ao topo](#topo)
 
 <span id="metrica">
@@ -43,4 +41,50 @@ Para melhorar o aproveitamento da equipe e das habilidades individuais de cada i
 
 </div>
     
+→ [Voltar ao topo](#topo)
+
+<span id="como rodar">
+
+## :gear: Como Rodar
+
+Para executar o projeto inteiro primeiro temos de clonar os repositorios [FrontEnd](https://github.com/The-Seven-DSM/Send.me-FrontEnd-2022-2), [BackEnd](https://github.com/The-Seven-DSM/Send.me-BackEnd-2022-2) e [Bot](https://github.com/The-Seven-DSM/Send.me-Bot-2022-2)
+
+
+- Baixe ou clone estes repositório
+```bash
+$ git clone https://github.com/The-Seven-DSM/Send.me-Bot-2022-2.git
+$ git clone https://github.com/The-Seven-DSM/Send.me-BackEnd-2022-2.git
+$ git clone https://github.com/The-Seven-DSM/Send.me-FrontEnd-2022-2.git
+```
+
+OBS: O projeto deve rodar na seguinte ordem Bot -> BackEnd -> FrontEnd
+
+- Acesse a pasta Send.me-Bot-2022-2 
+```bash
+#Rodando Bot
+$ cd Send.me-Bot-2022-2
+$ pip install -r requirements.txt
+$ Python app.py}
+
+#Espere o bot terminar sua execução e passe para o próximo 
+```
+
+- Acesse a pasta do Send.me-BackEnd-2022-2
+```bash
+#Rodando BackEnd
+yarn install
+$ yarn start
+```
+
+- Acesse a pasta do Send.me-FrontEnd-2022-2
+```bash
+#Rodando FrontEnd
+yarn install
+$ yarn start
+```
+
+- A aplicação iniciará localmente na porta 3000. Use o navegador para acessar o link [http://localhost:3000](http://localhost:3000)
+
+Finalizado!!!
+
 → [Voltar ao topo](#topo)
