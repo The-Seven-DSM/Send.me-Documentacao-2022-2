@@ -32,19 +32,20 @@ Cada entrega será feita a partir da criação de uma **tag** em cada repositór
 
 
 
-<h2> Product Backlog </h2>
+<h2> Requisitos Funcionais e Não Funcionais</h2>
 <div align="center">
 
 ![Product Backlog](https://user-images.githubusercontent.com/92696799/190937940-9dec191a-3198-4711-a33b-ab5b0baed5c0.png)
 <br>
 </div>
 
-<h2> Épicos </h2> 
+<h2> Backlog Geral </h2> 
 <div align="center">
 
 ![Epicos](https://user-images.githubusercontent.com/92696799/190937935-8350e09c-cae2-43a5-8ae6-94e0b20caf65.png)
 <br>
 </div>
+
 <h2> User Stories </h2>
 <div align="center">
 
