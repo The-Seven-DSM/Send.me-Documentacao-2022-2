@@ -87,7 +87,7 @@ OBS: O projeto deve rodar na seguinte ordem Bot -> BackEnd -> FrontEnd
 
 $ cd Send.me-Bot-2022-2
 $ pip install -r requirements.txt
-$ Python app.py}
+$ Python app.py
 
 #Espere o bot terminar sua execução e passe para o próximo 
 ```
@@ -132,7 +132,7 @@ Como solicitado pelo cliente ao fim da sprint, testamos todas as interações po
 | 08 | Redirecionamento para a página de validação e edição de email | ✔️ |
 | 09 | Edição de texto do email  | ✔️ |
 | 10 | Validar o email/edição atrevés do botão de validar  | ✔️ |
-| 11 | Envio do email através do botão de envio de email   | ❌ |
+| 11 | Envio do email através do botão de envio de email   | ✔️ |
 | 12 | Voltar para a Home a partir da página de validação de email  | ✔️ |
 | 13 | Voltar para a Home a partir do botão Send.Me (Logo)  | ✔️ | 
     
