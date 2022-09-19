@@ -6,7 +6,8 @@
     <a href="#objetivo">Objetivo da Sprint</a>  |  
     <a href="#entrega">Entregas</a>  |
     <a href="#metrica">Métricas do Time</a> |
-    <a href="#como rodar">Como Rodar</a> 
+    <a href="#como rodar">Como Rodar</a> |
+    <a href="#testes">Testes do Sistema</a> 
 </p>
 
 <span id="objetivo">
