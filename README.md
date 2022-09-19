@@ -30,7 +30,7 @@ A partir da apresentação do desafio enfrentado pela empresa parceira, a soluç
 
 Este GIF do sistema mostra a entrega dos requisitos confirmados para a sprint, onde suas descrições podem ser checadas a seguir:
     
-GIF    
+![Teste do Sistema](https://user-images.githubusercontent.com/92696799/190957283-b059e1aa-37c6-4345-a721-5e34b67e207e.gif)
     
 ### RF 01: Manipulação do PDFs  
 Esse requisito se trata do sistema de donwload, tratamento e exclusão dos dos PDFs. Este requisito, como o validado, teve seu início na primeira sprint levando em consideração as principais funções para a utilidade geral do projeto. O termino desse requisito será feito em entregas futuras onde o sistema fará a exclusão dos PDFs.  
