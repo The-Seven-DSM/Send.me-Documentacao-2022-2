@@ -1,5 +1,5 @@
 
-<h1 align="center"> Send.Me - Sprint 1: 29/08/2022 à 18/09/2022 </h1>
+<h1 align="center"> Send.Me - Sprint 1: 18/09/2022 à 09/10/2022 </h1>
 
             
 <br id="topo">
@@ -18,7 +18,7 @@ A partir da apresentação do desafio enfrentado pela empresa parceira, a soluç
 
 <div align="center">
 
-![Backlog Sprint](https://user-images.githubusercontent.com/101061910/190931394-b119e60b-934d-4b08-8ec0-64239ba638f3.jpg)
+![Backlog 2](https://user-images.githubusercontent.com/101061910/194651901-a459392f-affa-475d-a3fe-404eb026cb8b.jpg)
 
 </div>
 
