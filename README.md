@@ -31,19 +31,24 @@ A partir da apresentação do desafio enfrentado pela empresa parceira, a soluç
 Este GIF do sistema mostra a entrega dos requisitos confirmados para a sprint, onde suas descrições podem ser checadas a seguir:
     
 ![Teste do Sistema](https://user-images.githubusercontent.com/92696799/190957283-b059e1aa-37c6-4345-a721-5e34b67e207e.gif)
-    
-### RF 01: Manipulação do PDFs  
-Esse requisito se trata do sistema de donwload, tratamento e exclusão dos dos PDFs. Este requisito, como o validado, teve seu início na primeira sprint levando em consideração as principais funções para a utilidade geral do projeto. O termino desse requisito será feito em entregas futuras onde o sistema fará a exclusão dos PDFs.  
-    
-### RF 02: Leitura e localização de conteúdo
 
-Este requisito se trata de um crawler, que lê os PDFs baixados e busca nomes e as informações de nossos associados, para posteriormente armazenar em uma base de dados. Este requisito, como o validado, foi desenvolvido na primeira sprint levando em consideração as principais funções para a utilidade geral do projeto, e será refinado na sprint 2.
- 
-### RF 03: Cadatro de Associados   
-Este requisito se trata do cadastro de associados, contendo seus dados pessoais e seus contatos. Este requisito foi feito na primeira sprint levando em consideração as principais funções para a utilidade geral do projeto, e será refinado na sprint 2.    
-    
+<h2>RFs</h2>
+
 ### RF 04: Criação de Relatórios
-Este requisito se trata do relatório, impresso ou arquivo, criado a partir das informações armazenadas pelo crawler, contendo nome, e-mail e outras informações dos associados, onde o mesmo tem de receber de forma eletrônica em sua caixa de emails. Este requisito foi feito na primeira sprint levando em consideração as principais funções para a utilidade geral do projeto, e será refinado na sprint 2
+Este requisito se trata do relatório e a busca de informações no diário oficial. Foi criado um filtro para busca de informação no diário oficial para evitar a superlotação do banco de dados. Este requisito foi feito na primeira sprint levando em consideração as principais funções para a utilidade geral do projeto, e será refinado na sprint 3
+
+<h2>USs</h2>
+
+### US 3
+Esta User Story se refere a busca de informação no diário oficial, onde foi adicionado um filtro para não sobrecarregar o banco de dados. Esta User Story foi criada na primeira sprint levando em consideração as principais funções para a utilidade geral do produto.
+
+### US 8
+Esta User Story se refere ao histórico de e-mail dos associados, para melhor controle dos e-mails enviados para cada associado. Esta User Story foi criada na segunda sprint levando em consideração o progresso do projeto para a utilidade geral do produto.
+
+### US 9
+Esta User Story se refere ao login do backoffice, para que o controle do time seja mais fácil. Esta User Story foi criada na segunda sprint levando em consideração o progresso do projeto para a utilidade geral do produto.
+
+<br>
 → [Voltar ao topo](#topo)
 
 <span id="metrica">
