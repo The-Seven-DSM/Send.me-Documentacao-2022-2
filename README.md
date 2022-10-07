@@ -18,7 +18,7 @@ A partir da apresentação do desafio enfrentado pela empresa parceira, a soluç
 
 <div align="center">
 
-![Backlog 2](https://user-images.githubusercontent.com/101061910/194651901-a459392f-affa-475d-a3fe-404eb026cb8b.jpg)
+![Backlog 2](https://user-images.githubusercontent.com/101061910/194674948-f7b5ebfe-8052-4e0e-a978-96794056d697.jpg)
 
 </div>
 
