@@ -14,7 +14,7 @@
 <span id="objetivo">
 
 ## :dart: Objetivos da Sprint
-A partir da apresentação do desafio enfrentado pela empresa parceira, a solução desenvolvida se configura em um sistema que lê o diário oficial do estado, separa as citações daqueles que forem associados da empresa e permitir que, após ter sido validado, seja enviado um e-mail para eles.
+A partir da apresentação do desafio enfrentado pela empresa parceira, parte das soluções foram desenvolvidas na primeira Sprint, onde você pode conferir mais clicando aqui! Durante essa segunda sprint o foco foi o desenvolvimento de melhorias, correções e novas ferramentas para o projeto. 
 
 <div align="center">
 
@@ -138,10 +138,19 @@ Como solicitado pelo cliente ao fim da sprint, testamos todas as interações po
 | 09 | Edição de texto do email  | ✔️ |
 | 10 | Validar o email/edição atrevés do botão de validar  | ✔️ |
 | 11 | Envio do email através do botão de envio de email   | ✔️ |
-| 11 | Envio do email através do botão de envio de email caso seja um email validado  | ❌ |
 | 12 | Voltar para a Home a partir da página de validação de email  | ✔️ |
 | 13 | Voltar para a Home a partir do botão Send.Me (Logo)  | ✔️ | 
-    
+
 </div>
-    
+
+### Correções
+
+<div align="center">
+
+| Nº | Descrição | Status |
+|:--:|:----------:|:----------------:|
+| 1 | Envio do email através do botão de envio de email caso seja um email validado  | ✔️ |
+
+ </div> 
+ 
 → [Voltar ao topo](#topo)
