@@ -127,19 +127,13 @@ Como solicitado pelo cliente ao fim da sprint, testamos todas as interações po
     
 | Nº | Descrição | Status |
 |:--:|:----------:|:----------------:|
-| 01 | Redirecionamento para a página de cadastro do associado | ✔️ | 
-| 02 | Preenchimento dos campos de cadastro de associado | ✔️ | 
-| 03 | Bloqueio do cadastro de associados caso um campo não esteja preenchido | ✔️ | 
-| 04 | Cadastro de associado a partir do formulário caso os campos estejam preenchidos através do botão de cadastro| ✔️ |
-| 05 | Voltar para a Home a partir da página de cadastro de associados  | ✔️ | 
-| 06 | Visualização da tabela de associados presentes no PDF do dia | ✔️ | 
-| 07 | Envio de email validados através do botão de envio de email geral  | ✔️ |
-| 08 | Redirecionamento para a página de validação e edição de email | ✔️ |
-| 09 | Edição de texto do email  | ✔️ |
-| 10 | Validar o email/edição atrevés do botão de validar  | ✔️ |
-| 11 | Envio do email através do botão de envio de email   | ✔️ |
-| 12 | Voltar para a Home a partir da página de validação de email  | ✔️ |
-| 13 | Voltar para a Home a partir do botão Send.Me (Logo)  | ✔️ | 
+| 01 | Entrar na lista de associados pela navbar | ✔️ | 
+| 02 | Entrar pelo perfil do associado selecionando no nome do associado | ✔️ | 
+| 03 | Mostrar dados do associado pelo perfil | ✔️ |
+| 04 | Apagar associado pelo perfil | ✔️ | 
+| 05 | Histórico menções, mostrando email enviados e não enviados | ✔️ | 
+| 06 | Apagar associado pela imagem da lixeira  | ✔️ |
+| 07 | Redirecionar para o relatório a partir da tabela histórico | ✔️ |
 
 </div>
 
