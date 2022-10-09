@@ -131,9 +131,11 @@ Como solicitado pelo cliente ao fim da sprint, testamos todas as interações po
 | 02 | Entrar pelo perfil do associado selecionando no nome do associado | ✔️ | 
 | 03 | Mostrar dados do associado pelo perfil | ✔️ |
 | 04 | Apagar associado pelo perfil | ✔️ | 
-| 05 | Histórico menções, mostrando email enviados e não enviados | ✔️ | 
+| 05 | Histórico menções, mostrando email enviados e não enviados | X | 
 | 06 | Apagar associado pela imagem da lixeira  | ✔️ |
 | 07 | Redirecionar para o relatório a partir da tabela histórico | ✔️ |
+| 08 | Sistema diário para verificação | ✔️ |
+| 08 | Melhoria na filtragem de mensagens recolhidas automaticamente | ✔️ |
 
 </div>
 
