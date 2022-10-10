@@ -30,11 +30,15 @@ A partir da apresentação do desafio enfrentado pela empresa parceira, parte da
 
 Este GIF do sistema mostra a entrega dos requisitos confirmados para a sprint, onde suas descrições podem ser checadas a seguir:
     
-
-
-![2022-10-10_14-16-25_Trim](https://user-images.githubusercontent.com/96298784/194959687-ec72a864-fd70-4d72-afb3-1ef8fd4ee552.gif)
-![2022-10-10_14-03-44_Trim_2](https://user-images.githubusercontent.com/96298784/194959693-ae091edd-68ec-4a14-bf4d-a832a3c3da69.gif)
+### Login 
 ![2022-10-10_14-03-44_Trim](https://user-images.githubusercontent.com/96298784/194959695-38aca9b7-a863-48b7-8733-6676190f2e5f.gif)
+
+### Lista de Associados
+![2022-10-10_14-16-25_Trim](https://user-images.githubusercontent.com/96298784/194959687-ec72a864-fd70-4d72-afb3-1ef8fd4ee552.gif)
+
+### Perfil
+![2022-10-10_14-03-44_Trim_2](https://user-images.githubusercontent.com/96298784/194959693-ae091edd-68ec-4a14-bf4d-a832a3c3da69.gif)
+
 
 
 
