@@ -130,15 +130,18 @@ Como solicitado pelo cliente ao fim da sprint, testamos todas as interações po
 |:--:|:----------:|:----------------:|
 | 01 | Entrar na lista de associados pela navbar | ✔️ | 
 | 02 | Entrar pelo perfil do associado selecionando no nome do associado | ✔️ | 
-| 03 | Mostrar dados do associado pelo perfil | ✔️ |
-| 04 | Apagar associado pelo perfil | ✔️ | 
-| 05 | Histórico menções, mostrando email enviados e não enviados | ✔️ | 
-| 06 | Apagar associado pela imagem da lixeira  | ✔️ |
-| 07 | Redirecionar para o relatório a partir da tabela histórico | ✔️ |
-| 08 | Sistema diário para verificação | ✔️ |
-| 08 | Melhoria na filtragem de mensagens recolhidas automaticamente | ✔️ |
-| 09 | Login do Backoffice caso os campos estejam preechidos corretamente | ✔️ |
-| 10 | Bloqueio das rotas | X |
+| 03 | Mostrar a lista de todos os associados | ✔️ |
+| 04 | Acessar o perfil através da lista | ✔️ |
+| 04 | Mostrar dados do associado no perfil | ✔️ |
+| 05 | Apagar associado pelo perfil | ✔️ | 
+| 06 | Mostrar histórico contendo email enviados e não enviados | ✔️ | 
+| 08 | Redirecionar para o relatório a partir da tabela histórico | ✔️ |           
+| 07 | Apagar associado pela lista através do botão| ✔️ |
+| 09 | Sistema diário para verificação | ✔️ |
+| 10 | Melhoria na filtragem de mensagens recolhidas automaticamente | ✔️ |
+| 11 | Acesso do Backoffice ao sistema caso os campos estejam preechidos corretamente | ✔️ |
+| 12 | Bloqueio das rotas | ❌ |
+| 13 | Falha ao entrar caso os dados estejam errados ou vazios | ✔️ |
 
 </div>
 
