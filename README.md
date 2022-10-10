@@ -30,7 +30,7 @@ A partir da apresentação do desafio enfrentado pela empresa parceira, parte da
 
 Este GIF do sistema mostra a entrega dos requisitos confirmados para a sprint, onde suas descrições podem ser checadas a seguir:
     
-![Teste do Sistema](https://user-images.githubusercontent.com/92696799/190957283-b059e1aa-37c6-4345-a721-5e34b67e207e.gif)
+[Gif do projeto]
 
 <h2>RFs</h2>
 
@@ -131,11 +131,13 @@ Como solicitado pelo cliente ao fim da sprint, testamos todas as interações po
 | 02 | Entrar pelo perfil do associado selecionando no nome do associado | ✔️ | 
 | 03 | Mostrar dados do associado pelo perfil | ✔️ |
 | 04 | Apagar associado pelo perfil | ✔️ | 
-| 05 | Histórico menções, mostrando email enviados e não enviados | X | 
+| 05 | Histórico menções, mostrando email enviados e não enviados | ✔️ | 
 | 06 | Apagar associado pela imagem da lixeira  | ✔️ |
 | 07 | Redirecionar para o relatório a partir da tabela histórico | ✔️ |
 | 08 | Sistema diário para verificação | ✔️ |
 | 08 | Melhoria na filtragem de mensagens recolhidas automaticamente | ✔️ |
+| 09 | Login do Backoffice caso os campos estejam preechidos corretamente | ✔️ |
+| 10 | Bloqueio das rotas | X |
 
 </div>
 
