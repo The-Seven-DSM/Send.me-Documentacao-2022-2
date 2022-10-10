@@ -14,7 +14,7 @@
 <span id="objetivo">
 
 ## :dart: Objetivos da Sprint
-A partir da apresentação do desafio enfrentado pela empresa parceira, parte das soluções foram desenvolvidas na primeira Sprint, onde você pode conferir mais clicando aqui! Durante essa segunda sprint o foco foi o desenvolvimento de melhorias, correções e novas ferramentas para o projeto. 
+A partir da apresentação do desafio enfrentado pela empresa parceira, parte das soluções foram desenvolvidas na primeira Sprint, onde você pode conferir mais [clicando aqui](https://github.com/The-Seven-DSM/Send.me-Documentacao-2022-2/tree/Send.me-Sprint-1)! Durante essa segunda sprint o foco foi o desenvolvimento de melhorias, correções e novas ferramentas para o projeto. 
 
 <div align="center">
 
