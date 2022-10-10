@@ -49,6 +49,7 @@ Esta User Story se refere ao histórico de e-mail dos associados, para melhor co
 Esta User Story se refere ao login do backoffice, para que o controle do time seja mais fácil. Esta User Story foi criada na segunda sprint levando em consideração o progresso do projeto para a utilidade geral do produto.
 
 <br>
+            
 → [Voltar ao topo](#topo)
 
 <span id="metrica">
