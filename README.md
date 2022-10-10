@@ -39,13 +39,13 @@ Este requisito se trata do relatório e a busca de informações no diário ofic
 
 <h2>USs</h2>
 
-### US 3
+### US-3
 Esta User Story se refere a busca de informação no diário oficial, onde foi adicionado um filtro para não sobrecarregar o banco de dados. Esta User Story foi criada na primeira sprint levando em consideração as principais funções para a utilidade geral do produto.
 
-### US 8
+### US-8
 Esta User Story se refere ao histórico de e-mail dos associados, para melhor controle dos e-mails enviados para cada associado. Esta User Story foi criada na segunda sprint levando em consideração o progresso do projeto para a utilidade geral do produto.
 
-### US 9
+### US-9
 Esta User Story se refere ao login do backoffice, para que o controle do time seja mais fácil. Esta User Story foi criada na segunda sprint levando em consideração o progresso do projeto para a utilidade geral do produto.
 
 <br>
