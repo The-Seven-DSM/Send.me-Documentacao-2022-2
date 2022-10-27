@@ -32,18 +32,7 @@ Este GIF do sistema mostra a entrega dos requisitos confirmados para a sprint, o
     
 ![Teste do Sistema](https://user-images.githubusercontent.com/92696799/190957283-b059e1aa-37c6-4345-a721-5e34b67e207e.gif)
     
-### RF 01: Manipulação do PDFs  
-Esse requisito se trata do sistema de donwload, tratamento e exclusão dos dos PDFs. Este requisito, como o validado, teve seu início na primeira sprint levando em consideração as principais funções para a utilidade geral do projeto. O termino desse requisito será feito em entregas futuras onde o sistema fará a exclusão dos PDFs.  
-    
-### RF 02: Leitura e localização de conteúdo
 
-Este requisito se trata de um crawler, que lê os PDFs baixados e busca nomes e as informações de nossos associados, para posteriormente armazenar em uma base de dados. Este requisito, como o validado, foi desenvolvido na primeira sprint levando em consideração as principais funções para a utilidade geral do projeto, e será refinado na sprint 2.
- 
-### RF 03: Cadatro de Associados   
-Este requisito se trata do cadastro de associados, contendo seus dados pessoais e seus contatos. Este requisito foi feito na primeira sprint levando em consideração as principais funções para a utilidade geral do projeto, e será refinado na sprint 2.    
-    
-### RF 04: Criação de Relatórios
-Este requisito se trata do relatório, impresso ou arquivo, criado a partir das informações armazenadas pelo crawler, contendo nome, e-mail e outras informações dos associados, onde o mesmo tem de receber de forma eletrônica em sua caixa de emails. Este requisito foi feito na primeira sprint levando em consideração as principais funções para a utilidade geral do projeto, e será refinado na sprint 2
 → [Voltar ao topo](#topo)
 
 <span id="metrica">
