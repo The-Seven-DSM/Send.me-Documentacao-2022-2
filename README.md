@@ -18,7 +18,7 @@ A partir da apresentação do desafio enfrentado pela empresa parceira, a soluç
 
 <div align="center">
 
-![Backlog Sprint](https://user-images.githubusercontent.com/101061910/190931394-b119e60b-934d-4b08-8ec0-64239ba638f3.jpg)
+![User Story 1](https://user-images.githubusercontent.com/101061910/199399181-994cf2ac-b61e-4481-b9e6-8af829559091.jpg)
 
 </div>
 
