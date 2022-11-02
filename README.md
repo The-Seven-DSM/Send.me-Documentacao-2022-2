@@ -18,7 +18,7 @@ A partir da apresentação do desafio enfrentado pela empresa parceira, parte da
 
 <div align="center">
 
-![Backlog 2](https://user-images.githubusercontent.com/101061910/194674948-f7b5ebfe-8052-4e0e-a978-96794056d697.jpg)
+![User Story 2](https://user-images.githubusercontent.com/101061910/199399602-d6f797d5-e179-41f6-8550-4af62ad6a6ee.jpg)        
 
 </div>
 
