@@ -49,7 +49,8 @@ Cada entrega será feita a partir da criação de uma **tag** em cada repositór
 <h2> User Stories </h2>
 <div align="center">
 
-![User Stories](https://user-images.githubusercontent.com/92696799/190937927-5ca06c83-b203-443e-8b22-a4d785d25818.png)
+![User Story Geral](https://user-images.githubusercontent.com/101061910/200189099-08000b6c-3a32-48ea-9857-b17e73e459a2.jpg)
+
 <br>
 </div>
 
