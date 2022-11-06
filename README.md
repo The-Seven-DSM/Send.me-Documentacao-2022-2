@@ -1,5 +1,5 @@
 
-<h1 align="center"> Send.Me - Sprint 2: 18/09/2022 à 09/10/2022 </h1>
+<h1 align="center"> Send.Me - Sprint 2: 17/10/2022 à 06/11/2022 </h1>
 
             
 <br id="topo">
@@ -14,11 +14,11 @@
 <span id="objetivo">
 
 ## :dart: Objetivos da Sprint
-A partir da apresentação do desafio enfrentado pela empresa parceira, parte das soluções foram desenvolvidas na primeira Sprint, onde você pode conferir mais [clicando aqui](https://github.com/The-Seven-DSM/Send.me-Documentacao-2022-2/tree/Send.me-Sprint-1)! Durante essa segunda sprint o foco foi o desenvolvimento de melhorias, correções e novas ferramentas para o projeto. 
+A partir da apresentação do desafio enfrentado pela empresa parceira, parte das soluções foram desenvolvidas na primeira Sprint, onde você pode conferir mais [clicando aqui](https://github.com/The-Seven-DSM/Send.me-Documentacao-2022-2/tree/Send.me-Sprint-1)! Essas soluções foram continuadas na segunda Sprint, onde você pode conferir mais [clicando aqui](https://github.com/The-Seven-DSM/Send.me-Documentacao-2022-2/tree/Send.me-Sprint-2)! Durante essa terceira sprint o foco foi o desenvolvimento de melhorias, correções e novas ferramentas para o projeto. 
 
 <div align="center">
 
-![User Story 2](https://user-images.githubusercontent.com/101061910/199399602-d6f797d5-e179-41f6-8550-4af62ad6a6ee.jpg)        
+![User Story 3](https://user-images.githubusercontent.com/101061910/200188777-28275ffb-d1a3-48e2-be8f-03ca3a0e2da8.jpg)
 
 </div>
 
