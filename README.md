@@ -51,7 +51,7 @@ Para melhorar o aproveitamento da equipe e das habilidades individuais de cada i
 <br>
 <div align="center">
             
-![Burndown Chart (1)](https://user-images.githubusercontent.com/92696799/194780302-42e7bbe3-c870-4941-9f0c-93648c3e3c24.png)
+![Burndown Chart](https://user-images.githubusercontent.com/92696799/200189384-d23ab72e-0e95-488f-9120-2f85d68c5725.png)
 
 </div>
     
@@ -129,8 +129,7 @@ Como solicitado pelo cliente ao fim da sprint, testamos todas as interações po
 | 10 | Sistema diário para verificação | ✔️ |
 | 11 | Melhoria na filtragem de mensagens recolhidas automaticamente | ✔️ |
 | 12 | Acesso do Backoffice ao sistema caso os campos estejam preechidos corretamente | ✔️ |
-| 13 | Bloqueio das rotas | ❌ |
-| 14 | Falha ao entrar caso os dados estejam errados ou vazios | ✔️ |
+| 13 | Falha ao entrar caso os dados estejam errados ou vazios | ✔️ |
 
 </div>
 
@@ -140,7 +139,7 @@ Como solicitado pelo cliente ao fim da sprint, testamos todas as interações po
 
 | Nº | Descrição | Status |
 |:--:|:----------:|:----------------:|
-| 1 | Envio do email através do botão de envio de email caso seja um email validado  | ✔️ |
+| 1 | Bloqueio das rotas | ❌ ✔️|
 
  </div> 
  
