@@ -1,5 +1,5 @@
 
-<h1 align="center"> Send.Me - Sprint 2: 17/10/2022 à 06/11/2022 </h1>
+<h1 align="center"> Send.Me - Sprint 3: 17/10/2022 à 06/11/2022 </h1>
 
             
 <br id="topo">
