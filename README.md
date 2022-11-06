@@ -14,7 +14,7 @@
 <span id="objetivo">
 
 ## :dart: Objetivos da Sprint
-A partir da apresentação do desafio enfrentado pela empresa parceira, parte das soluções foram desenvolvidas nas sprints anteriores, onde você pode conferir mais [clicando aqui](https://github.com/The-Seven-DSM/Send.me-Documentacao-2022-2/)! Durante essa terceira sprint o foco foi o desenvolvimento de melhorias e correções do projeto, focando principalmente em melhorar o terreno para atualizações futuras!
+A partir da apresentação do desafio enfrentado pela empresa parceira, parte das soluções foram desenvolvidas nas sprints anteriores, onde você pode conferir mais [clicando aqui](https://github.com/The-Seven-DSM/Send.me-Documentacao-2022-2/)! Durante essa terceira sprint o foco foi o desenvolvimento de melhorias e correções do projeto, focando principalmente em melhorar e adiantar o terreno para atualizações futuras!
 
 <div align="center">
 
