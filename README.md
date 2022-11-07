@@ -114,21 +114,17 @@ Como solicitado pelo cliente ao fim da sprint, testamos todas as interações po
 
 <div align="center">
     
+    
 | Nº | Descrição | Status |
 |:--:|:----------:|:----------------:|
-| 01 | Entrar na lista de associados pela navbar | ✔️ | 
-| 02 | Entrar pelo perfil do associado selecionando no nome do associado | ✔️ | 
-| 03 | Mostrar a lista de todos os associados | ✔️ |
-| 04 | Acessar o perfil através da lista | ✔️ |
-| 05 | Mostrar dados do associado no perfil | ✔️ |
-| 06 | Apagar associado pelo perfil | ✔️ | 
-| 07 | Mostrar histórico contendo email enviados e não enviados | ✔️ | 
-| 08 | Redirecionar para o relatório a partir da tabela histórico | ✔️ |           
-| 09 | Apagar associado pela lista através do botão| ✔️ |
-| 10 | Sistema diário para verificação | ✔️ |
-| 11 | Melhoria na filtragem de mensagens recolhidas automaticamente | ✔️ |
-| 12 | Acesso do Backoffice ao sistema caso os campos estejam preechidos corretamente | ✔️ |
-| 13 | Falha ao entrar caso os dados estejam errados ou vazios | ✔️ |
+| 01 | Acessar o cadastro de backoffice| ✔️ | 
+| 02 | Voltar para a tela login através do botão voltar | ✔️ | 
+| 03 | Cadastrar backoffice caso os campos estejam preenchidos corretamente| ✔️ |
+| 04 | Falha ao cadastrar caso os campos não estejam preenchidos| ✔️ |
+| 05 | Redirecionar para tela de login após cadastro do backoffice | ✔️ |
+| 06 | Gerar PDF a partir do botão de geração de PDF| ✔️ | 
+| 07 | Realizar o download deste PDF | ✔️ | 
+| 08 | Formatação correta do PDF | ✔️ |            
 
 </div>
 
@@ -138,7 +134,8 @@ Como solicitado pelo cliente ao fim da sprint, testamos todas as interações po
 
 | Nº | Descrição | Status |
 |:--:|:----------:|:----------------:|
-| 1 | Bloqueio das rotas | ❌ ✔️|
+| 1 | Bloqueio das rotas | ✔️ |
+| 2 | Atualização dos campos de cadastro de associado | ✔️ |
 
  </div> 
  
