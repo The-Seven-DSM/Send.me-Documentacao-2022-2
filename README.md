@@ -30,13 +30,11 @@ A partir da apresentação do desafio enfrentado pela empresa parceira, parte da
 
 Este GIF do sistema mostra a entrega dos requisitos confirmados para a sprint, onde suas descrições podem ser checadas a seguir:
     
-### Geração PDF 
-![video 2](https://user-images.githubusercontent.com/96298784/200205887-c27ea6f7-2745-4588-9c49-6d98fa8a81ec.gif)
+### Refatoração
 
 
-### Cadastro do Backoffice
+### Envio Baseado em Status
 
-  ![video 1](https://user-images.githubusercontent.com/96298784/200205918-8e3769ea-4ff5-40f0-ab08-bf18364c8b26.gif)
   
 → [Voltar ao topo](#topo)
 
