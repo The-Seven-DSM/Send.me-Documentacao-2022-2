@@ -32,9 +32,15 @@ Este GIF do sistema mostra a entrega dos requisitos confirmados para a sprint, o
     
 ### Refatoração
 
+            
 
 ### Envio Baseado em Status
-
+ 
+            
+            
+### Filtro por Caderno 
+            
+           
   
 → [Voltar ao topo](#topo)
 
@@ -119,6 +125,7 @@ Como solicitado pelo cliente ao fim da sprint, testamos todas as interações po
 | 02 | Envio de Todos os Email com Status Positivo| ✔️ |
 | 03 | Envio de Todos os Emails | ✔️ | 
 | 04 | Refatoração Completa do Código | ✔️ |
-| 05 | NavBar | X |       
-| 06 | Estilo no Perfil | X |
+| 05 | Filtro por Caderno Home | ✔️ |
+| 06 | NavBar | X |       
+| 07 | Estilo no Perfil | X |
 </div>
