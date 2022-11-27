@@ -117,13 +117,10 @@ Como solicitado pelo cliente ao fim da sprint, testamos todas as interações po
     
 | Nº | Descrição | Status |
 |:--:|:----------:|:----------------:|
-| 01 | Acessar o cadastro de backoffice| ✔️ | 
-| 02 | Voltar para a tela login através do botão voltar | ✔️ | 
-| 03 | Cadastrar backoffice caso os campos estejam preenchidos corretamente| ✔️ |
-| 04 | Falha ao cadastrar caso os campos não estejam preenchidos| ✔️ |
-| 05 | Redirecionar para tela de login após cadastro do backoffice | ✔️ |
-| 06 | Gerar PDF a partir do botão de geração de PDF| ✔️ | 
-| 07 | Realizar o download deste PDF | ✔️ | 
-| 08 | Formatação correta do PDF | ✔️ |            
+| 01 | Envio Automático de Email| ✔️ | 
+| 02 | Envio de Todos os Email com Status Positivo| ✔️ |
+| 03 | Envio de Todos os Emails | ✔️ | 
+| 03 | Refatoração Completa do Código | ✔️ |
+         
 
 </div>
