@@ -120,7 +120,7 @@ Como solicitado pelo cliente ao fim da sprint, testamos todas as interações po
 | 01 | Envio Automático de Email| ✔️ | 
 | 02 | Envio de Todos os Email com Status Positivo| ✔️ |
 | 03 | Envio de Todos os Emails | ✔️ | 
-| 03 | Refatoração Completa do Código | ✔️ |
-         
-
+| 04 | Refatoração Completa do Código | ✔️ |
+| 05 | NavBar | X |       
+| 06 | Estilo no Perfil | X |
 </div>
