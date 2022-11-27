@@ -50,7 +50,7 @@ Para melhorar o aproveitamento da equipe e das habilidades individuais de cada i
 <br>
 <div align="center">
             
-![Burndown Chart](https://user-images.githubusercontent.com/92696799/200189384-d23ab72e-0e95-488f-9120-2f85d68c5725.png)
+![Burndown Chart](https://user-images.githubusercontent.com/92696799/204162011-ddcff131-8eaa-4042-8984-3707506d7653.png)
 
 </div>
     
