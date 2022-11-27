@@ -3,6 +3,7 @@
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
     <a href="#backlog">Backlog</a>  |
+    <a href="#manuais">Manuais</a>  |
     <a href="#tecnologia">Tecnologia</a>  |
     <a href="#equipe">Equipe</a>
 </p>
@@ -56,6 +57,14 @@ Cada entrega será feita a partir da criação de uma **tag** em cada repositór
 
 
 
+
+→ [Voltar ao topo](#topo)
+
+<span id="manuais">
+
+## 📘 Manuais
+
+Temos armazenado neste repositório o manual do usuário e o manual de instalação. Neles é possível aprender como instalar e rodar o programa e depois como usa-lo também. Basta acessar a pasta de manuais para encontra-los.
 
 → [Voltar ao topo](#topo)
 
