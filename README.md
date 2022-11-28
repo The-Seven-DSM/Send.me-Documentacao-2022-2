@@ -39,9 +39,8 @@ Este GIF do sistema mostra a entrega dos requisitos confirmados para a sprint, o
             
             
 ### Filtro por Caderno 
+![2022-11-27 23-49-09 (online-video-cutter com)](https://user-images.githubusercontent.com/92696799/204181812-06970d27-4e57-4527-9385-19950bafff8c.gif)
             
-           
-  
 → [Voltar ao topo](#topo)
 
 <span id="metrica">
@@ -125,6 +124,7 @@ Como solicitado pelo cliente ao fim da sprint, testamos todas as interações po
 | 02 | Envio de Todos os Email com Status Positivo| ✔️ |
 | 03 | Envio de Todos os Emails | ✔️ | 
 | 04 | Refatoração Completa do Código | ✔️ |
-| 05 | Filtro por Caderno Home | ✔️ |
+| 05 | Filtro por Caderno | ✔️ |
+| 06 | Filtro por Nome | ✔️ |
 
 </div>
