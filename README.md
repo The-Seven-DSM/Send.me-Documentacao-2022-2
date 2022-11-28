@@ -126,6 +126,5 @@ Como solicitado pelo cliente ao fim da sprint, testamos todas as interações po
 | 03 | Envio de Todos os Emails | ✔️ | 
 | 04 | Refatoração Completa do Código | ✔️ |
 | 05 | Filtro por Caderno Home | ✔️ |
-| 06 | NavBar | X |       
-| 07 | Estilo no Perfil | X |
+
 </div>
