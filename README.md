@@ -64,7 +64,10 @@ Cada entrega será feita a partir da criação de uma **tag** em cada repositór
 
 ## 📘 Manuais
 
-Temos armazenado neste repositório o manual do usuário e o manual de instalação. Neles é possível aprender como instalar e rodar o programa e depois como usa-lo também. Basta acessar a pasta de manuais para encontra-los.
+Acesse a documentação do projeto: 
+[Manual do Usuário](https://github.com/The-Seven-DSM/Send.me-Documentacao-2022-2/blob/Master/Manuais/Manual%20do%20Usuario%20-%20The%20Seven.pdf),
+[Diagrama de Classes](https://github.com/The-Seven-DSM/Send.me-Documentacao-2022-2/tree/Master/Diagrama%20de%20Classe),
+[Modelo do Banco de Dados](https://github.com/The-Seven-DSM/Send.me-Documentacao-2022-2/tree/Master/Modelos%20do%20Banco%20de%20Dados)
 
 → [Voltar ao topo](#topo)
 
