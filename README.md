@@ -30,17 +30,12 @@ A partir da apresentação do desafio enfrentado pela empresa parceira, parte da
 
 Este GIF do sistema mostra a entrega dos requisitos confirmados para a sprint, onde suas descrições podem ser checadas a seguir:
     
-### Refatoração
+### Refatoração           
+![2022-11-28 00-00-19](https://user-images.githubusercontent.com/92696799/204182369-27e5bd88-8d87-4eab-ab6a-084b44f233ee.gif)  
 
-            
-
-### Envio Baseado em Status
- 
-            
-            
-### Filtro por Caderno 
+### Filtro por Caderno                    
 ![2022-11-27 23-49-09 (online-video-cutter com)](https://user-images.githubusercontent.com/92696799/204181812-06970d27-4e57-4527-9385-19950bafff8c.gif)
-            
+                        
 → [Voltar ao topo](#topo)
 
 <span id="metrica">
